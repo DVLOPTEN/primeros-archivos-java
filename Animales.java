@@ -11,6 +11,7 @@ public class Animales {
 	boolean pelo;
 	char sexo;
 	String origen;
+	int hola;
 	
 	// esto sería un constructor cada vez que creo uno tendrá esos parámetros
 	// SE EJECUTA SIEMPRE DESDE EL PRINCIPIO para que no hereden ponemos PRIVATE
